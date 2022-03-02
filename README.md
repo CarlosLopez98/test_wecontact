@@ -13,7 +13,7 @@ npm run start_expo
 # Capturas
 
 1. Vista de contactos
-   ![Vista de contactos](captures/1. contactos.jpg)
+   ![Vista de contactos](/captures/1. contactos.jpg)
 2. Vista de contacto específico
    ![](captures/2. contacto.jpg)
 3. Añadiendo nuevo teléfono
