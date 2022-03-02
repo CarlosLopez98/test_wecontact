@@ -10,6 +10,10 @@ npm install
 npm run start_expo
 ```
 
+Spring Boot
+
+Correr proyecto y si es necesario cambiar direccion de la api segun corresponda en el archivo 'api.js' en la carpeta de recursos del proyecto de React Native.
+
 # Capturas
 
 1. Vista de contactos
