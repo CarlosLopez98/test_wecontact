@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "entryPoint": "./App.js",
+    "splash": {
+      "image": "./resources/images/splash.png",
+      "resizeMode": "contain"
+    },
+    "name": "weConnet",
+    "slug": "wesdom",
+    "version": "0.1.0",
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "description": ""
+  }
+}
